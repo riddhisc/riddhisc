@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Frontend development
-- 🌱 I’m currently learning ...Docker
+- 🌱 I’m currently learning ...Docker and Kubernetes
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with indoor navigation method
 - 💬 Ask me about ... MERN stack
