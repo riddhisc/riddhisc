@@ -10,5 +10,5 @@
 - ⚡ Fun fact: I Love Classic Novels
 
 
-https://github-readme-stats.vercel.app/api?username=riddhisc
+<p><img align="center" src = "https://github-readme-stats.vercel.app/api?username=riddhisc" />
 
