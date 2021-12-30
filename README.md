@@ -3,10 +3,9 @@
 - 🔭 I’m currently working on Frontend development
 - 🌱 I’m currently learning Docker and Kubernetes
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with indoor navigation method
+- 🤔 I’m looking for help with Indoor navigation method.
 - 💬 Ask me about MERN stack
 - 📫 How to reach me: https://www.linkedin.com/in/riddhi-chavan-17a1b3113/
-- 😄 Pronouns:  She
 - ⚡ Fun fact: I Love Classic Novels
 
 
@@ -31,7 +30,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhisc&hide=java,html,css&theme=radical)](https://github.com/riddhisc/github-readme-stats)
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishwajeetraj11&show_icons=true&hide_border=true" />
+
 
 
 [twitter]: https://twitter.com/Vishwajeet323
