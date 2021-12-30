@@ -26,9 +26,7 @@
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhisc)](https://github.com/riddhisc/github-readme-stats) 
   
-  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhisc &theme=radical)](https://github.com/riddhisc/github-readme-stats)
+
 
 
 
