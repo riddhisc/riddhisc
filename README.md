@@ -39,6 +39,6 @@
 [linkedin]: https://www.linkedin.com/in/vishwajeetraj11/
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=riddhisc&count_private=true&theme=tokyonight&hide=contribs,prs)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=riddhisc&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,prs)
+
   
 
