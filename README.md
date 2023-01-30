@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Riddhi Chavan!
 
 - 🔭 I’m currently working on Frontend development
-- 🌱 I’m currently learning Docker and Kubernetes
+- 🌱 I’m currently learning MERN stack
 - 🤔 I’m looking for help with Indoor navigation method.
 - 💬 Ask me about MERN stack
 - 📫 How to reach me: https://www.linkedin.com/in/riddhi-chavan-17a1b3113/
