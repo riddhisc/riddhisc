@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning MERN stack
 - 🤔 I’m looking for help with Indoor navigation method.
 - 💬 Ask me about MERN stack
-- 📫 How to reach me: https://www.linkedin.com/in/riddhi-chavan-17a1b3113/
+- 📫 How to reach me: https://www.linkedin.com/in/riddhichavan7/
 - ⚡ Fun fact: I Love Classic Novels
 
 
