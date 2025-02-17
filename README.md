@@ -1,137 +1,100 @@
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF69B4&size=28&lines=Hey+there!+I'm+Riddhi+Chavan!;✨+Frontend+Developer;🌟+MERN+Stack+Enthusiast;💫+Code+%26+Coffee+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Riddhi+Chavan!;Full+Stack+Web+Developer...;MERN+Stack+Enthusiast!;Classic+Literature+Lover!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=7AF79A&size=28&lines=Hi+there!+I'm+Riddhi+Chavan!;Frontend+Developer;MERN+Stack+Enthusiast;Web+Development+Explorer" alt="Typing SVG" />
 </div>
 
+<img src="https://raw.githubusercontent.com/riddhisc/riddhisc/main/assets/border.gif" width="100%">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h3 align="center">
-  👩‍💻 Frontend Developer | 🎨 MERN Stack Explorer | 🌈 Digital Dream Weaver
+  🚀 Frontend Developer | 📚 MERN Stack Explorer | 🏛️ Classic Novel Enthusiast
+  🚀 Frontend Developer | 📚 MERN Stack Explorer | 💻 Web Development Enthusiast
 </h3>
 
-<!-- Custom social links with hover effect -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/riddhichavan7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:8px; transition: transform 0.3s; &:hover{transform: translateY(-5px);}"/>
-  </a>
-  <a href="https://github.com/riddhisc" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius:8px; transition: transform 0.3s; &:hover{transform: translateY(-5px);}"/>
-  </a>
+  <a href="https://www.linkedin.com/in/riddhichavan7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/riddhisc"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<!-- Side by side sections -->
-<div style="display:flex; flex-wrap:wrap; justify-content:space-between; gap:20px; margin-top:30px;">
-  <!-- Left column: About Me & Journey -->
-  <div style="flex:1; min-width:300px;">
-    <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
-    
-    ## 💫 About Me
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-    ```javascript
-    const riddhi = {
-      skills: ["Frontend Development", "React", "JavaScript", "UI/UX"],
-      currentlyLearning: ["MERN Stack", "Advanced React Patterns"],
-      interests: ["Web Development", "Tech Innovation", "Problem Solving"],
-      funFact: "I debug like a detective and style like an artist",
-      motto: "If at first you don't succeed, call it version 1.0",
-      workProcess: ["Plan", "Code", "Test", "Refactor", "Deliver"]
-    };
-    ```
+## 💫 About Me:
+```javascript
+const riddhi = {
+  currentFocus: "Frontend Development",
+  learning: ["MERN Stack", "System Design", "Indoor Navigation"],
+  askMeAbout: ["Web Dev", "Tech", "Classic Literature"],
+  funFact: "I can recommend the perfect classic novel based on your mood!",
+  favoriteAuthors: ["Jane Austen", "F. Scott Fitzgerald", "Leo Tolstoy"],
+  challenge: "Building an indoor navigation system that works without GPS"
+  learning: ["MERN Stack", "System Design"],
+  askMeAbout: ["Web Dev", "Tech", "Reading"],
+  funFact: "I enjoy finding elegant solutions to complex problems",
+  interests: ["Web Development", "Classic Literature", "Problem Solving"],
+  currentChallenge: "Building an indoor navigation system"
+};
+```
 
-    ## 🎯 My Journey
+## 🌱 My Journey:
+- 🔭 Currently building: **An interactive book recommendation platform**  
+- 🔭 Currently building: **A responsive web application with React**  
+- 🤔 Exploring: **Indoor navigation methods**  
+- 💬 Let's discuss: **MongoDB, Express, React, Node.js**  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/riddhichavan7/)  
+- ⚡ Fun fact: **I've read over 100 classic novels!**  
+- ⚡ Fun fact: **I always keep a classic novel on my desk for creative inspiration**  
 
-    - 🔭 Currently working on: Frontend applications with React
-    - 🌱 Learning: Advanced MERN stack development
-    - 💬 Happy to discuss: Frontend frameworks & UI/UX best practices
-    - 📫 Contact me: Through LinkedIn or GitHub
-    - ⚡ Fun fact: My rubber duck debugger is my most trusted colleague!
-  </div>
+## 🛠️ Tech Stack & Tools:
+
+
+## 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=riddhisc&theme=radical&border_radius=20" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=riddhisc&show_icons=true&theme=radical&border_radius=20" width="48%" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhisc&layout=compact&theme=radical&border_radius=20" width="40%" alt="top langs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riddhisc&theme=tokyonight&hide_border=false" alt="streak stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=riddhisc&show_icons=true&theme=tokyonight" alt="github stats" height="150"/>
 </div>
 
-<!-- Unique compact GitHub stats with custom styling -->
-<h2 align="center">📊 GitHub Insights</h2>
-<div align="center" style="background: linear-gradient(to right, #8e2de2, #4a00e0); padding: 20px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
-  <!-- Stats cards in a grid layout -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin-bottom: 20px;">
-    <!-- Streak -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=riddhisc&theme=radical&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&background=0D1117" alt="streak stats" style="width: 100%; max-width: 350px; border-radius: 10px;"/>
-    
-    <!-- Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=riddhisc&show_icons=true&theme=radical&hide_border=true&icon_color=FF69B4&title_color=FF69B4&text_color=FFFFFF&bg_color=0D1117" alt="github stats" style="width: 100%; max-width: 350px; border-radius: 10px;"/>
-  </div>
-  
-  <!-- Languages - slightly more compact -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhisc&layout=compact&theme=radical&hide_border=true&title_color=FF69B4&bg_color=0D1117" alt="top languages" style="width: 100%; max-width: 500px; border-radius: 10px;"/>
-  
-  <!-- Extra: Animated contribution graph (unique touch) -->
-  <a href="https://github.com/riddhisc">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riddhisc&theme=radical" alt="contribution graph" style="width: 100%; max-width: 700px; border-radius: 10px; margin-top: 15px;"/>
-  </a>
+## 📚 Current Reading List:
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546071216i/5907.jpg" width="100" alt="Pride and Prejudice"/>
+      <br>
+      <b>Pride and Prejudice</b>
+    </td>
+    <td align="center">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490528560i/4671.jpg" width="100" alt="Great Expectations"/>
+      <br>
+      <b>Great Expectations</b>
+    </td>
+    <td align="center">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572261616i/18405.jpg" width="100" alt="Crime and Punishment"/>
+      <br>
+      <b>Crime and Punishment</b>
+    </td>
+  </tr>
+</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhisc&layout=compact&theme=tokyonight" alt="top languages" height="150"/>
 </div>
-
-<!-- Tech Stack with animated icons -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-<div align="center" style="margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,git,figma&theme=dark" alt="Tech Stack" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+## 📘 What I'm Reading:
+<div align="center">
+  <p><i>"In the world of web development, learning never stops. Currently exploring best practices for scalable architecture."</i></p>
 </div>
-
-<!-- Developer Philosophy with custom styling -->
-<div align="center" style="background: linear-gradient(to right, #FF69B4, #8E2DE2); padding: 25px; border-radius: 15px; margin: 30px 0; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
-  <h2 style="color: white; margin-bottom: 20px;">💭 Developer Philosophy</h2>
-  <p style="color: white; font-style: italic; max-width: 800px; margin: 0 auto 10px auto;">
-    "Clean code always looks like it was written by someone who cares."
-  </p>
-  <p style="color: white; font-style: italic; max-width: 800px; margin: 0 auto;">
-    "Good design is invisible - you only notice it when it's missing."
-  </p>
-</div>
-
-<!-- Current Projects - unique addition -->
-<h2 align="center">🚀 Current Projects</h2>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
-  <a href="https://github.com/riddhisc/project1" style="text-decoration: none;">
-    <div style="background-color: #0D1117; border: 1px solid #FF69B4; border-radius: 10px; padding: 15px; width: 280px; height: 150px; transition: transform 0.3s; &:hover{transform: translateY(-5px);}">
-      <h3 style="color: #FF69B4;">React Dashboard</h3>
-      <p style="color: #ccc;">A responsive admin dashboard with dark/light theme</p>
-      <div style="display: flex; gap: 5px; margin-top: 20px;">
-        <span style="background-color: #3178C6; color: white; padding: 3px 8px; border-radius: 5px; font-size: 12px;">React</span>
-        <span style="background-color: #61DAFB; color: black; padding: 3px 8px; border-radius: 5px; font-size: 12px;">TypeScript</span>
-        <span style="background-color: #38B2AC; color: white; padding: 3px 8px; border-radius: 5px; font-size: 12px;">Tailwind</span>
-      </div>
-    </div>
-  </a>
-  <a href="https://github.com/riddhisc/project2" style="text-decoration: none;">
-    <div style="background-color: #0D1117; border: 1px solid #FF69B4; border-radius: 10px; padding: 15px; width: 280px; height: 150px; transition: transform 0.3s; &:hover{transform: translateY(-5px);}">
-      <h3 style="color: #FF69B4;">MERN E-Commerce</h3>
-      <p style="color: #ccc;">Full-stack shopping platform with payment integration</p>
-      <div style="display: flex; gap: 5px; margin-top: 20px;">
-        <span style="background-color: #61DAFB; color: black; padding: 3px 8px; border-radius: 5px; font-size: 12px;">React</span>
-        <span style="background-color: #68A063; color: white; padding: 3px 8px; border-radius: 5px; font-size: 12px;">Node.js</span>
-        <span style="background-color: #4DB33D; color: white; padding: 3px 8px; border-radius: 5px; font-size: 12px;">MongoDB</span>
-      </div>
-    </div>
-  </a>
-</div>
-
-<!-- Developer Life - Unique presentation -->
-<h2 align="center">⚡ A Glimpse into My Developer Life</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px 0;">
-  <div style="background-color: #0D1117; border-radius: 10px; padding: 20px; width: 200px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Thinking" width="70" style="margin-bottom: 10px;">
-    <p style="color: #ccc;">When I'm debugging a complex problem</p>
-  </div>
-  <div style="background-color: #0D1117; border-radius: 10px; padding: 20px; width: 200px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Steam%20From%20Nose.png" alt="Coffee" width="70" style="margin-bottom: 10px;">
-    <p style="color: #ccc;">When the code works after 10 cups of coffee</p>
-  </div>
-  <div style="background-color: #0D1117; border-radius: 10px; padding: 20px; width: 200px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="Happy" width="70" style="margin-bottom: 10px;">
-    <p style="color: #ccc;">When I finally center that div perfectly</p>
-  </div>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=riddhisc&label=Profile%20Views&color=FF69B4&style=flat" alt="riddhisc" />
-  <p style="margin-top: 10px; color: #666;">Made with 💖 by Riddhi Chavan</p>
+  <img src="https://raw.githubusercontent.com/riddhisc/riddhisc/main/assets/border.gif" width="100%">
+  <p align="center">"The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid." — Jane Austen</p>
+  <img src="https://komarev.com/ghpvc/?username=riddhisc&label=Profile%20Views&color=blueviolet&style=flat" alt="riddhisc" />
+  <img src="https://komarev.com/ghpvc/?username=riddhisc&label=Profile%20Views&color=blue&style=flat" alt="riddhisc" />
 </div>
+
+<!-- Handcrafted with ❤️ by Riddhi Chavan -->
+<!-- Created with care by Riddhi Chavan -->
