@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=7AF79A&size=28&lines=Hi+there!+I'm+Riddhi+Chavan!;Frontend+Developer;MERN+Stack+Enthusiast;Web+Development+Explorer" alt="Typing SVG" />
 </div>
 
-<img src="https://raw.githubusercontent.com/riddhisc/riddhisc/main/assets/border.gif" width="100%">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h3 align="center">
