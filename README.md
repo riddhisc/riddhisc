@@ -44,7 +44,6 @@ const riddhi = {
 - 🤔 Exploring: **Indoor navigation methods**  
 - 💬 Let's discuss: **MongoDB, Express, React, Node.js**  
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/riddhichavan7/)  
-- ⚡ Fun fact: **I've read over 100 classic novels!**  
 - ⚡ Fun fact: **I always keep a classic novel on my desk for creative inspiration**  
 
 ## 🛠️ Tech Stack & Tools:
