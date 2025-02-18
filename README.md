@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Riddhi+Chavan!;Full+Stack+Web+Developer...;MERN+Stack+Enthusiast!;Classic+Literature+Lover!" alt="Typing SVG" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=7AF79A&size=28&lines=Hi+there!+I'm+Riddhi+Chavan!;Frontend+Developer;MERN+Stack+Enthusiast;Web+Development+Explorer" alt="Typing SVG" />
