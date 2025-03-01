@@ -43,7 +43,6 @@ const riddhi = {
 
 ## 🛠️ Tech Stack & Tools:
 
-
 ## 📊 GitHub Stats:
 
 <div align="center">
