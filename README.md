@@ -40,7 +40,6 @@ const riddhi = {
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/riddhichavan7/)  
 - ⚡ Fun fact: **I always keep a classic novel on my desk for creative inspiration**  
 
-## 🛠️ Tech Stack & Tools:
 
 ## 📊 GitHub Stats:
 
