@@ -1,12 +1,18 @@
-<h1 align="center">Hi, I'm Riddhi Chavan</h1>
+<div align="center">
 
-<h3 align="center">Software Engineer | React, Next.js, TypeScript and .NET</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=210&section=header&text=Riddhi%20Chavan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descSize=22&descAlignY=60" width="100%" alt="Riddhi Chavan banner" />
 
-<p align="center">
-  <a href="https://riddhichavan.com"><img src="https://img.shields.io/badge/Portfolio-riddhichavan.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/riddhichavan7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:riddhis1999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=React+%7C+Next.js+%7C+TypeScript;C%23+.NET+%7C+Python+FastAPI;4+years+building+production+web+apps" alt="Typing animation" />
+
+<br/>
+
+<a href="https://riddhichavan.com"><img src="https://img.shields.io/badge/Portfolio-riddhichavan.com-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/riddhichavan7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:riddhis1999@gmail.com"><img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+</div>
+
+<br/>
 
 ## About me
 
@@ -14,44 +20,72 @@ I'm a software engineer with 4 years of commercial experience at Jacobs, buildin
 
 I'm Google UX Design certified and care about responsive, user-centred interfaces. I work with Azure DevOps, CI/CD and Docker, and I've collaborated with UK and US stakeholders across time zones.
 
+<br/>
+
 ## Tech stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,tailwind,html,css,figma&theme=dark" alt="Frontend skills" />
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,flask,nodejs,postgres,redis,docker,azure,git&theme=dark" alt="Backend and tools skills" />
+</a>
+
+</div>
+
+<br/>
 
 ## Featured projects
 
-**GridWatch UK** (Next.js, TypeScript, FastAPI, PostgreSQL, Redis, Docker)
-A full-stack UK energy dashboard that combines live NESO carbon-intensity data with Octopus Agile half-hourly prices to show greener and cheaper times to use electricity. [View live](https://gridwatch-uk.vercel.app)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>GridWatch UK</h3>
+      <p>A full-stack UK energy dashboard combining live NESO carbon-intensity data with Octopus Agile half-hourly prices, to show greener and cheaper times to use electricity.</p>
+      <p><sub>Next.js, TypeScript, FastAPI, PostgreSQL, Redis, Docker</sub></p>
+      <a href="https://gridwatch-uk.vercel.app"><img src="https://img.shields.io/badge/View%20live-2E8B57?style=for-the-badge" alt="View GridWatch UK"></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Stock News Tracker</h3>
+      <p>A Flask app that aggregates Indian stock and market-index news from multiple sources using scraping and RSS, with search history and live Nifty 50 and Dow Jones updates.</p>
+      <p><sub>Python, Flask, BeautifulSoup4, feedparser, NewsAPI, Docker</sub></p>
+      <a href="http://ridz111.pythonanywhere.com"><img src="https://img.shields.io/badge/View%20live-4285F4?style=for-the-badge" alt="View Stock News Tracker"></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>IndiWheels</h3>
+      <p>A React single-page app showcasing Indian car models and manufacturers, with filters for brand, fuel type, body type and price, plus a prototype 3D vehicle viewer.</p>
+      <p><sub>React, Vite, React Router, Tailwind CSS, shadcn/ui, Three.js</sub></p>
+      <a href="https://riddhisc.github.io/IndiWheels"><img src="https://img.shields.io/badge/View%20live-EA4335?style=for-the-badge" alt="View IndiWheels"></a>
+    </td>
+  </tr>
+</table>
 
-**Stock News Tracker** (Python, Flask, BeautifulSoup4, feedparser, NewsAPI, Docker)
-A Flask web app that aggregates Indian stock and market-index news from multiple public sources using scraping and RSS, with search history and live Nifty 50 / Dow Jones updates. [View live](http://ridz111.pythonanywhere.com)
-
-**IndiWheels** (React, Vite, React Router, Tailwind CSS, shadcn/ui, Three.js)
-A React single-page app showcasing Indian car models and manufacturers, with filtering by brand, fuel type, body type and price, plus a prototype 3D vehicle viewer. [View live](https://riddhisc.github.io/IndiWheels)
+<br/>
 
 ## GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riddhisc&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhisc&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top languages" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=riddhisc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16" height="160" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhisc&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" height="160" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=riddhisc&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub streak" />
+
+</div>
+
+<br/>
 
 ## Get in touch
 
-- Portfolio: [riddhichavan.com](https://riddhichavan.com)
-- LinkedIn: [linkedin.com/in/riddhichavan7](https://www.linkedin.com/in/riddhichavan7/)
-- Email: [riddhis1999@gmail.com](mailto:riddhis1999@gmail.com)
+Open to hearing about frontend and full-stack work, collaborations, or just to say hello.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,100:7AA2F7&height=120&section=footer" width="100%" alt="Footer wave" />
+
+</div>
