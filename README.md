@@ -1,150 +1,57 @@
+<h1 align="center">Hi, I'm Riddhi Chavan</h1>
 
+<h3 align="center">Software Engineer | React, Next.js, TypeScript and .NET</h3>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Riddhi+Chavan!;Full+Stack+Web+Developer...;MERN+Stack+Enthusiast!;Classic+Literature+Lover!" alt="Typing SVG" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-<!--  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=7AF79A&size=28&lines=Hi+there!+I'm+Riddhi+Chavan!;Frontend+Developer;MERN+Stack+Enthusiast;Web+Development+Explorer" alt="Typing SVG" /> -->
-
-
-
-
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<h3 align="center">
-  🚀 Frontend Developer | 📚 MERN Stack Explorer | 🏛️ Classic Novel Enthusiast 
-  🚀 Frontend Developer | 📚 MERN Stack Explorer | 💻 Web Development Enthusiast
-</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/riddhichavan7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/riddhisc"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://riddhichavan.com"><img src="https://img.shields.io/badge/Portfolio-riddhichavan.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/riddhichavan7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:riddhis1999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-<img align="right" alt="Coding" width="400" 
-src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
-## 💫 About Me:
-```javascript
-const riddhi = {
-  currentFocus: "Frontend Development",
-  learning: ["MERN Stack", "System Design", "Indoor Navigation"],
-  askMeAbout: ["Web Dev", "Tech", "Classic Literature"],
-  funFact: "I can recommend the perfect classic novel based on your mood!",
-  favoriteAuthors: ["Jane Austen", "F. Scott Fitzgerald", "Leo Tolstoy"],
-  challenge: "Building an indoor navigation system that works without GPS"
-  learning: ["MERN Stack", "System Design"],
-  askMeAbout: ["Web Dev", "Tech", "Reading"],
-  funFact: "I enjoy finding elegant solutions to complex problems",
-  interests: ["Web Development", "Classic Literature", "Problem Solving"],
-  currentChallenge: "Building an indoor navigation system"
-};
-```
-## 🌱 My Journey:
-- 🔭 Currently building: **An interactive book recommendation platform**  
-- 🔭 Currently building: **A responsive web application with React**  
-- 🤔 Exploring: **Indoor navigation methods**  
-- 💬 Let's discuss: **MongoDB, Express, React, Node.js**  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/riddhichavan7/)  
-- ⚡ Fun fact: **I always keep a classic novel on my desk for creative inspiration**  
 
-## 📊 GitHub Stats:
+## About me
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=riddhisc&theme=radical&border_radius=20" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=riddhisc&show_icons=true&theme=radical&border_radius=20" width="48%" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhisc&layout=compact&theme=radical&border_radius=20" width="40%" alt="top langs"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riddhisc&theme=tokyonight&hide_border=false" alt="streak stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=riddhisc&show_icons=true&theme=tokyonight" alt="github stats" height="150"/>
-</div>
+I'm a software engineer with 4 years of commercial experience at Jacobs, building production web applications for internal engineering teams and external users. My focus is frontend (React, Next.js, TypeScript and Vue.js), backed by full-stack work in C#/.NET, REST APIs, Python/FastAPI, SQL Server and PostgreSQL.
 
-## 📚 Current Reading List:
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546071216i/5907.jpg" width="100" alt="Pride and Prejudice"/>
-      <br>
-      <b>Pride and Prejudice</b>
-    </td>
-    <td align="center">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490528560i/4671.jpg" width="100" alt="Great Expectations"/>
-      <br>
-      <b>Great Expectations</b>
-    </td>
-    <td align="center">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572261616i/18405.jpg" width="100" alt="Crime and Punishment"/>
-      <br>
-      <b>Crime and Punishment</b>
-    </td>
-  </tr>
-</table>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhisc&layout=compact&theme=tokyonight" alt="top languages" height="150"/>
-</div>
-## 📘 What I'm Reading:
-<div align="center">
-  <p><i>"In the world of web development, learning never stops. Currently exploring best practices for scalable architecture."</i></p>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+I'm Google UX Design certified and care about responsive, user-centred interfaces. I work with Azure DevOps, CI/CD and Docker, and I've collaborated with UK and US stakeholders across time zones.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/riddhisc/riddhisc/main/assets/border.gif" width="100%">
-  <p align="center">"The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid." — Jane Austen</p>
-  <img src="https://komarev.com/ghpvc/?username=riddhisc&label=Profile%20Views&color=blueviolet&style=flat" alt="riddhisc" />
-  <img src="https://komarev.com/ghpvc/?username=riddhisc&label=Profile%20Views&color=blue&style=flat" alt="riddhisc" />
-</div>
+## Tech stack
 
-<!-- Handcrafted with ❤️ by Riddhi Chavan -->
-<!-- Created with care by Riddhi Chavan -->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## Featured projects
+
+**GridWatch UK** (Next.js, TypeScript, FastAPI, PostgreSQL, Redis, Docker)
+A full-stack UK energy dashboard that combines live NESO carbon-intensity data with Octopus Agile half-hourly prices to show greener and cheaper times to use electricity. [View live](https://gridwatch-uk.vercel.app)
+
+**Stock News Tracker** (Python, Flask, BeautifulSoup4, feedparser, NewsAPI, Docker)
+A Flask web app that aggregates Indian stock and market-index news from multiple public sources using scraping and RSS, with search history and live Nifty 50 / Dow Jones updates. [View live](http://ridz111.pythonanywhere.com)
+
+**IndiWheels** (React, Vite, React Router, Tailwind CSS, shadcn/ui, Three.js)
+A React single-page app showcasing Indian car models and manufacturers, with filtering by brand, fuel type, body type and price, plus a prototype 3D vehicle viewer. [View live](https://riddhisc.github.io/IndiWheels)
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riddhisc&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhisc&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top languages" />
+</p>
+
+## Get in touch
+
+- Portfolio: [riddhichavan.com](https://riddhichavan.com)
+- LinkedIn: [linkedin.com/in/riddhichavan7](https://www.linkedin.com/in/riddhichavan7/)
+- Email: [riddhis1999@gmail.com](mailto:riddhis1999@gmail.com)
