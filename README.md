@@ -80,6 +80,20 @@ I'm Google UX Design certified and care about responsive, user-centred interface
 
 <br/>
 
+## Contribution activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riddhisc/riddhisc/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riddhisc/riddhisc/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/riddhisc/riddhisc/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
 ## Get in touch
 
 Open to hearing about frontend and full-stack work, collaborations, or just to say hello.
