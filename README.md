@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=210&section=header&text=Riddhi%20Chavan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descSize=22&descAlignY=60" width="100%" alt="Riddhi Chavan banner" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:07111E,55:0A1020,100:150B2E&height=220&section=header&text=Riddhi%20Chavan&fontSize=52&fontColor=F8FAFC&fontAlignY=40&desc=Full-stack%20Software%20Engineer&descSize=20&descAlignY=62&animation=fadeIn&stroke=2DE2C5&strokeWidth=2" width="100%" alt="Riddhi Chavan banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=React+%7C+Next.js+%7C+TypeScript;C%23+.NET+%7C+Python+FastAPI;4+years+building+production+web+apps" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2DE2C5&center=true&vCenter=true&width=700&lines=I+build+production+web+apps+that+teams+rely+on;React+%7C+Next.js+%7C+TypeScript;C%23+.NET+%7C+Python+FastAPI;4+years+building+production+web+apps" alt="Typing animation" />
 
-<br/>
+<br />
 
-<a href="https://riddhichavan.com"><img src="https://img.shields.io/badge/Portfolio-riddhichavan.com-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/riddhichavan7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:riddhis1999@gmail.com"><img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://riddhichavan.com"><img src="https://img.shields.io/badge/PORTFOLIO-riddhichavan.com-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=13B8A6&color=0B1220" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/riddhichavan7/"><img src="https://img.shields.io/badge/LINKEDIN-connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0B1220" alt="LinkedIn"></a>
+<a href="mailto:riddhis1999@gmail.com"><img src="https://img.shields.io/badge/EMAIL-say%20hello-0B1220?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B5CF6&color=0B1220" alt="Email"></a>
+<a href="https://github.com/riddhisc?tab=followers"><img src="https://img.shields.io/github/followers/riddhisc?style=for-the-badge&logo=github&label=FOLLOW&labelColor=7C3AED&color=0B1220" alt="Follow"></a>
 
 </div>
 
